@@ -5,5 +5,9 @@ Rencana Bahasa Pemrograman yang ingin dipelajari
   * Js.Node
   
 - PHP
+ * Object Oriented PHP
+ * PHP Data Object
+ * Model View Controll
+ * Framework
 
 - Phyton
