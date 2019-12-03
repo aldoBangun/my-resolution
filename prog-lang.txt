@@ -1,10 +1,9 @@
 Rencana Bahasa Pemrograman yang ingin dipelajari
 
 - Javacript
-  * belajar DOM
   * Js.Node
   
-- PHP
+- PHP 
  * Object Oriented PHP
  * PHP Data Object
  * Model View Controll
