@@ -1,5 +1,7 @@
 Rencana Bahasa Pemrograman yang ingin dipelajari
 
 - Javacript
-- js.Node
+  * belajar DOM
+  * Js.Node
+  
 - PHP
