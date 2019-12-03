@@ -7,4 +7,4 @@ Rencana Bahasa Pemrograman yang ingin dipelajari
   * OOPHP
   * Framework Laravel
 
-- Phyton
+- Ruby
