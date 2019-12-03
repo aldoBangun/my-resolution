@@ -9,5 +9,7 @@ Rencana Bahasa Pemrograman yang ingin dipelajari
  * PHP Data Object
  * Model View Controll
  * Framework
+  ^ Code Igniter
+  ^ Laravel
 
 - Phyton
