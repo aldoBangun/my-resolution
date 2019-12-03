@@ -1,0 +1,5 @@
+Rencana Bahasa Pemrograman yang ingin dipelajari
+
+- Javacript
+- js.Node
+- PHP
